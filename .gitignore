@@ -219,5 +219,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Local datasets
+Pakistan Largest Ecommerce Dataset.csv
+online_retail_II.xlsx
+online_retail_combined.csv
 
 Pakistan Largest Ecommerce Dataset.csv
